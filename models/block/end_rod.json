@@ -1,0 +1,5 @@
+{   "parent": "block/torch",
+	"textures": {
+        "torch": "blocks/end_rod"
+    }
+}
